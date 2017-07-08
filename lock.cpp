@@ -70,3 +70,4 @@ int main(){
 	cout<<"global is :"<<global<<endl;
 	return 0;
 }
+////add some comment
