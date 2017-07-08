@@ -14,6 +14,13 @@ void * fun2(void *arg){
     return (void *)2;
 }
 
+void nothing()
+{
+    //do nothing;
+    return ;
+}
+
+
 int main(){
     int err;
     pthread_t tid1,tid2;
