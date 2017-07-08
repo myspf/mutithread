@@ -28,7 +28,7 @@ public:
 private:
 	pthread_mutex_t m_;
 };
-
+//////this is a mutex
 Mutex m;
 class Info{
 public:
