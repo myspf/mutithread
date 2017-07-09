@@ -18,6 +18,7 @@ void *thr_fn(void *arg){
     printids("new thread :");
     return (void *)0;
 }
+//kkkkkkkkkk
 
 int main(){
 pthread_t ntid;
